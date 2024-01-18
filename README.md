@@ -48,3 +48,7 @@ Streamlit Sharing adalah platform hosting gratis dari Streamlit yang dirancang k
 3. Deploy dari GitHub: Setelah mendapatkan akses, melakukan deploy aplikasi langsung dari GitHub ke Streamlit Sharing. disini perlu memberikan tautan ke repositori GitHub Anda.
 
 4. Konfigurasi dan Launch: Konfigurasikan opsi yang diperlukan dan luncurkan aplikasi. Streamlit Sharing akan menangani instalasi dependensi dan menjalankan aplikasi.
+
+
+Regards, Agus Arifudin (A11.2021.13736)
+Link Deployment: https://clusteringdoc-a11202113736.streamlit.app/
