@@ -3,7 +3,7 @@
 
 
 
-Dataset diperoleh dari kaggle dan diperkecil skalanya
+Dataset diperoleh dari kaggle dan diperkecil skalanya, 
 source: https://www.kaggle.com/code/jbencina/clustering-documents-with-tfidf-and-kmeans
 
 
