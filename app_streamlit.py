@@ -13,7 +13,7 @@ from sklearn.manifold import TSNE
 @st.cache(allow_output_mutation=True)
 def load_data():
     # Adjust the path to where you will upload your dataset in the deployment environment
-    data = pd.read_json('dataset.json', lines=True)
+    data = pd.read_json('data/dataset.json', lines=True)
     return data
 
 # Function to perform TF-IDF transformation
